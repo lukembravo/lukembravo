@@ -24,7 +24,7 @@ How does energy consumption vary over time across different meters at different 
 The Data: [`Schneider Electric Exchange`](https://shop.exchange.se.com/en-US/apps/39025/detecting-anomalies-in-building-energy-usage)  
 Our Code: [`Data Preprocessing`](https://github.com/lukembravo/energy_anomaly_detection/blob/master/Code/01%20Data%20preprocessing.ipynb) [`Data Visualization`](https://github.com/lukembravo/energy_anomaly_detection/blob/master/Code/02%20Data%20visualization.ipynb) [`Random Forest, XGBoost, & Nearest Neighbors Models`](https://github.com/lukembravo/energy_anomaly_detection/blob/master/Code/03%20Modeling%20-%20Random%20forests%2C%20XGBoost%2C%20Nearest%20Neighbors.ipynb)
 [`Basic PyOD for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/APMAnomaly%20Detection.ipynb) 
-[`Bayesian Change Points for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/Anomaly%20Detection%20Using%20Banpei%20Changepoint%20Probabilities.ipynb) [`Unsupervised KNN for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/APMAnomaly%20Detection.ipynb)
+[`Bayesian Change Points for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/Anomaly%20Detection%20Using%20Banpei%20Changepoint%20Probabilities.ipynb) [`Unsupervised KNN & Better PyOD for Anomaly Detection`](https://github.com/indialindsay/Adv_Predictive_Modeling-/blob/main/APMAnomaly%20Detection.ipynb)
 
 ### *Retail Diet Diversity* [:link:](https://github.com/lukembravo/retail_diet_diversity)
 ![retail_diet_diversity.jpg](https://i.imgur.com/1Oz71ud.jpg)
