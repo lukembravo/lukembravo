@@ -16,7 +16,7 @@ Outside of my academic life, I enjoy a number of hobbies and creative outlets. M
  
 ## Recent Coding and Data Science Projects
 
-### *Anomaly Detection in Energy Use* [:link:](https://github.com/lukembravo/anomaly_detection_in_energy_use)
+### *Anomaly Detection in Energy Use* [:link:](https://github.com/lukembravo/energy_anomaly_detection)
 ![energy_anomaly_detection.jpg](https://i.imgur.com/7bamvQA.jpg)
 
 How does energy consumption vary over time across different meters at different sites? How can we identify normal and abnormal consumption in order to improve efficiency? This group project was based on a large set of time series data provided by Schneider Electric for a competition. Check out our code or our [article on Medium](https://indialindsay1.medium.com/identifying-anomalies-in-commercial-energy-consumption-b0e72f569bb2) to see how we used XGBoost, Bayesian changepoint analysis, and more to pick out anomalies in data heavily influenced by seasonality and propose potential avenues for consumption optimization.
