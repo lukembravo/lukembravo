@@ -40,3 +40,8 @@ Our Code: [`Correlation & Regression Analyses`](https://github.com/lukembravo/re
 In this project, our group creates a hypothetical data strategy/architecture, 3NF transaction management systems, an ETL procedure, an enterprise data warehouse, and a data lake for Nike.
 
 Our Code: [`Data Definition Language`](https://github.com/lukembravo/data_management_final_project/blob/master/DDL.sql) [`Extract-Load-Transfer Procedure`](https://github.com/lukembravo/data_management_final_project/blob/master/ETL%20final.sql)
+
+## Other Projects
+
+### *Natural Language Processing Applied to Trump's Speeches* [:link:](https://github.com/lukembravo/trump_speech_text_analytics)
+How have President Trump's talking points and rhetoric changed in the past year leading up to the 2020 election? Were there trends that the outbreak of COVID-19 strengthened? Negated? Natural Language processing methods help answer these questions.
