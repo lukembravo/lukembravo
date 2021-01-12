@@ -34,14 +34,12 @@ What patterns can we find hidden in geographic, inventory, and health-related in
 The Data: [`Harvard Dataverse`](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZWBUEK)  
 Our Code: [`Correlation & Regression Analyses`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/01%20Correlation%20%26%20regression%20analysis.R) [`Principal Component Analysis`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/03%20PCA.ipynb) [`MLPR Optimization, EDA, & RFE`](https://github.com/lukembravo/retail_diet_diversity/blob/master/Code/04%20EDA%20%26%20MLPR%20based%20on%20Correlations%20and%20RFE.ipynb)
 
-### *Data Management Final Project* [:link:](https://github.com/lukembravo/data_management_final_project)
-![data management final project](https://i.imgur.com/onsLBGK.jpg)
-
-In this project, our group creates a hypothetical data strategy/architecture, 3NF transaction management systems, an ETL procedure, an enterprise data warehouse, and a data lake for Nike.
-
 Our Code: [`Data Definition Language`](https://github.com/lukembravo/data_management_final_project/blob/master/DDL.sql) [`Extract-Load-Transfer Procedure`](https://github.com/lukembravo/data_management_final_project/blob/master/ETL%20final.sql)
 
 ## Other Projects
+
+### *Data Management Final Project* [:link:](https://github.com/lukembravo/data_management_final_project)
+In this project, our group creates a hypothetical data strategy/architecture, 3NF transaction management systems, an ETL procedure, an enterprise data warehouse, and a data lake for Nike.
 
 ### *Natural Language Processing Applied to Trump's Speeches* [:link:](https://github.com/lukembravo/trump_speech_text_analytics)
 How have President Trump's talking points and rhetoric changed in the past year leading up to the 2020 election? Were there trends that the outbreak of COVID-19 strengthened? Negated? Natural Language processing methods help answer these questions.
