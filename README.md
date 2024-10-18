@@ -8,6 +8,8 @@
 </pre>                                                                                                   
 
 ## About Me
+Quick update - Please note if you are reviewing my page that I no longer actively contribute under this Github account.  I'm leaving everything as it was before completing my graduate program and beginning work.  Thanks for stopping by!
+
 I'm currently pursuing a masters degree in business analytics at the McCombs School of Business (University of Texas at Austin). I'm looking forward to beginning a career in an analyst or consultant position, combining data science with my background in marketing and research. I strive to integrate creativity and ingenuity in all aspects of my work and personal lives. 
 
 Outside of my academic life, I enjoy a number of hobbies and creative outlets. Music has always been something I love to spend spare time doing, and playing with different bands in New Orleans while studying at Tulane is something I'll always think back fondly on. My favorite ways to enjoy the outdoors are backpacking and mountain biking. I've also fished in rivers, streams, bays, and deep seas for as long as I can remember. Another way I spend my time is doing freelance graphic design and online marketing. It started as an interest in digital art and animation, and has turned into working with a range of clients from cosmetic brands to realtors to restaurants and more ... [`Read More`](https://github.com/lukembravo/lukembravo/blob/master/Full%20bio.md)
